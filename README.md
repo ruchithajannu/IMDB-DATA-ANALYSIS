@@ -6,8 +6,6 @@ This repository contains code and data for analyzing IMDb (Internet Movie Databa
 
 The dataset used for this analysis is obtained from IMDb, a popular online database of movies, TV shows, and other entertainment content. The dataset includes information such as movie titles, release dates, ratings, genres, and more. It is provided in a structured format, allowing for easy manipulation and analysis.
 
-Due to licensing restrictions, the dataset cannot be included in this repository. However, detailed instructions on how to obtain the dataset are provided below.
-
 ## Requirements
 
 To run the code and reproduce the analysis, you need the following:
